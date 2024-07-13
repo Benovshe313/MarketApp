@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\UML_diagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|c:\\users\\user\\source\\repos\\uml_diagram\\uml_diagram\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|solutionrelative:uml_diagram\\carbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|c:\\users\\user\\source\\repos\\uml_diagram\\uml_diagram\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|solutionrelative:uml_diagram\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|c:\\users\\user\\source\\repos\\uml_diagram\\uml_diagram\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|solutionrelative:uml_diagram\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|c:\\users\\user\\source\\repos\\uml_diagram\\uml_diagram\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|solutionrelative:uml_diagram\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|c:\\users\\user\\source\\repos\\uml_diagram\\uml_diagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36629AF2-682A-484A-B49C-F4F8E95CE324}|UML_diagram\\UML_diagram.csproj|solutionrelative:uml_diagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\Director.cs",
+              "RelativeDocumentMoniker": "UML_diagram\\Director.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\Director.cs",
+              "RelativeToolTip": "UML_diagram\\Director.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:32:48.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\Car.cs",
+              "RelativeDocumentMoniker": "UML_diagram\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\Car.cs",
+              "RelativeToolTip": "UML_diagram\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:25:19.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\CarBuilder.cs",
+              "RelativeDocumentMoniker": "UML_diagram\\CarBuilder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\CarBuilder.cs",
+              "RelativeToolTip": "UML_diagram\\CarBuilder.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:07:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\IBuilder.cs",
+              "RelativeDocumentMoniker": "UML_diagram\\IBuilder.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\IBuilder.cs",
+              "RelativeToolTip": "UML_diagram\\IBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:02:16.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\Program.cs",
+              "RelativeDocumentMoniker": "UML_diagram\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UML_diagram\\UML_diagram\\Program.cs",
+              "RelativeToolTip": "UML_diagram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:01:05.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.AssemblyInfo.cs
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\admin_panel\admin_panel\bin\Debug\net8.0\admin_panel.exe
+C:\Users\User\source\repos\admin_panel\admin_panel\bin\Debug\net8.0\admin_panel.deps.json
+C:\Users\User\source\repos\admin_panel\admin_panel\bin\Debug\net8.0\admin_panel.runtimeconfig.json
+C:\Users\User\source\repos\admin_panel\admin_panel\bin\Debug\net8.0\admin_panel.dll
+C:\Users\User\source\repos\admin_panel\admin_panel\bin\Debug\net8.0\admin_panel.pdb
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.dll
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\refint\admin_panel.dll
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.pdb
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\admin_panel.genruntimeconfig.cache
+C:\Users\User\source\repos\admin_panel\admin_panel\obj\Debug\net8.0\ref\admin_panel.dll

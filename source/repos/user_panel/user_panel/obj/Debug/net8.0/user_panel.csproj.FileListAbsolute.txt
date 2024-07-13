@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\user_panel\user_panel\bin\Debug\net8.0\user_panel.exe
+C:\Users\User\source\repos\user_panel\user_panel\bin\Debug\net8.0\user_panel.deps.json
+C:\Users\User\source\repos\user_panel\user_panel\bin\Debug\net8.0\user_panel.runtimeconfig.json
+C:\Users\User\source\repos\user_panel\user_panel\bin\Debug\net8.0\user_panel.dll
+C:\Users\User\source\repos\user_panel\user_panel\bin\Debug\net8.0\user_panel.pdb
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.AssemblyInfo.cs
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.dll
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\refint\user_panel.dll
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.pdb
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\user_panel.genruntimeconfig.cache
+C:\Users\User\source\repos\user_panel\user_panel\obj\Debug\net8.0\ref\user_panel.dll

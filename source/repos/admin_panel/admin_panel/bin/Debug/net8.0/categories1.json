@@ -1,0 +1,78 @@
+[
+  {
+    "Name": "Dairy products",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Description": "NOVA GAUDA yellow cheese"
+      },
+      {
+        "Name": "Butter",
+        "Price": 16.99,
+        "Description": "VIOLETTO 100% natural butter"
+      },
+      {
+        "Name": "Yoghurt",
+        "Price": 3.49,
+        "Description": "YAYLA Sour Village Natural Yoghurt"
+      }
+    ]
+  },
+  {
+    "Name": "Fruit, vegetable",
+    "Products": [
+      {
+        "Name": "Apple",
+        "Price": 2.19,
+        "Description": "Red apple FUJI"
+      },
+      {
+        "Name": "Pepper",
+        "Price": 3.59,
+        "Description": "Green pepper"
+      },
+      {
+        "Name": "Cabbage",
+        "Price": 1.15,
+        "Description": "White cabbage"
+      }
+    ]
+  },
+  {
+    "Name": "Flour products",
+    "Products": [
+      {
+        "Name": "Factory bread",
+        "Price": 0.95,
+        "Description": "Sliced white bread"
+      },
+      {
+        "Name": "Diabetic bread",
+        "Price": 2.3,
+        "Description": "IVANOVKA 100% Natural"
+      }
+    ]
+  },
+  {
+    "Name": "Beverage",
+    "Products": [
+      {
+        "Name": "Water",
+        "Price": 0.95,
+        "Description": "SIRAB Still water"
+      },
+      {
+        "Name": "Juice",
+        "Price": 2.2,
+        "Description": "NATURA MULTIVITAMIN no sugar mixed fruits"
+      },
+      {
+        "Name": "Lemonade",
+        "Price": 2.05,
+        "Description": "NATAKHTARI Pear lemonade"
+      }
+    ]
+  }
+  
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "Date": "2024-07-05T23:23:51.4314631+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Quantity": 2,
+        "Description": "NOVA GAUDA yellow cheese"
+      }
+    ],
+    "TotalAmount": 27.98,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-05T23:40:56.7115578+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Quantity": 2,
+        "Description": "NOVA GAUDA yellow cheese"
+      },
+      {
+        "Name": "Yoghurt",
+        "Price": 3.49,
+        "Quantity": 2,
+        "Description": "YAYLA Sour Village Natural Yoghurt"
+      },
+      {
+        "Name": "Butter",
+        "Price": 16.99,
+        "Quantity": 2,
+        "Description": "VIOLETTO 100% natural butter"
+      }
+    ],
+    "TotalAmount": 68.94,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-05T23:41:50.5106722+04:00",
+    "Products": [
+      {
+        "Name": "Water",
+        "Price": 0.95,
+        "Quantity": 1,
+        "Description": "SIRAB Still water"
+      }
+    ],
+    "TotalAmount": 0.95,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-06T19:11:25.880309+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Quantity": 1,
+        "Description": "NOVA GAUDA yellow cheese"
+      }
+    ],
+    "TotalAmount": 13.99,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-06T19:12:37.3593034+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Quantity": 1,
+        "Description": "NOVA GAUDA yellow cheese"
+      }
+    ],
+    "TotalAmount": 13.99,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-06T19:15:06.4071962+04:00",
+    "Products": [
+      {
+        "Name": "Lemonade",
+        "Price": 2.05,
+        "Quantity": 2,
+        "Description": "NATAKHTARI Pear lemonade"
+      }
+    ],
+    "TotalAmount": 4.1,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-06T23:07:16.6698249+04:00",
+    "Products": [
+      {
+        "Name": "Diabetic bread",
+        "Price": 2.3,
+        "Quantity": 1,
+        "Description": "IVANOVKA 100% Natural"
+      },
+      {
+        "Name": "Juice",
+        "Price": 2.2,
+        "Quantity": 2,
+        "Description": "NATURA MULTIVITAMIN no sugar mixed fruits"
+      },
+      {
+        "Name": "Butter",
+        "Price": 16.99,
+        "Quantity": 2,
+        "Description": "VIOLETTO 100% natural butter"
+      }
+    ],
+    "TotalAmount": 40.68,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:20:20.9187005+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Quantity": 2,
+        "Description": "NOVA GAUDA yellow cheese"
+      },
+      {
+        "Name": "Water",
+        "Price": 0.95,
+        "Quantity": 1,
+        "Description": "SIRAB Still water"
+      },
+      {
+        "Name": "Yoghurt",
+        "Price": 3.49,
+        "Quantity": 1,
+        "Description": "YAYLA Sour Village Natural Yoghurt"
+      }
+    ],
+    "TotalAmount": 32.42,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:30:33.1824514+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13,
+        "Quantity": 1,
+        "Description": "NOVA GAUDA yellow cheese"
+      }
+    ],
+    "TotalAmount": 13,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:31:05.4214391+04:00",
+    "Products": [
+      {
+        "Name": "Lemonade",
+        "Price": 2.05,
+        "Quantity": 2,
+        "Description": "NATAKHTARI Pear lemonade"
+      }
+    ],
+    "TotalAmount": 4.1,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:33:49.9077308+04:00",
+    "Products": [
+      {
+        "Name": "Juice",
+        "Price": 2.2,
+        "Quantity": 22,
+        "Description": "NATURA MULTIVITAMIN no sugar mixed fruits"
+      }
+    ],
+    "TotalAmount": 48.400000000000006,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:34:16.9118648+04:00",
+    "Products": [
+      {
+        "Name": "Water",
+        "Price": 0.95,
+        "Quantity": 1,
+        "Description": "SIRAB Still water"
+      }
+    ],
+    "TotalAmount": 0.95,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:36:01.7920636+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13,
+        "Quantity": 11,
+        "Description": "NOVA GAUDA yellow cheese"
+      },
+      {
+        "Name": "Pepper",
+        "Price": 3.59,
+        "Quantity": 22,
+        "Description": "Green pepper"
+      },
+      {
+        "Name": "Water",
+        "Price": 0.95,
+        "Quantity": 1,
+        "Description": "SIRAB Still water"
+      }
+    ],
+    "TotalAmount": 222.92999999999998,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:36:52.4234116+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13,
+        "Quantity": 1,
+        "Description": "NOVA GAUDA yellow cheese"
+      }
+    ],
+    "TotalAmount": 13,
+    "UserId": null
+  },
+  {
+    "Date": "2024-07-13T23:46:15.8919647+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13,
+        "Quantity": 1,
+        "Description": "NOVA GAUDA yellow cheese"
+      },
+      {
+        "Name": "Water",
+        "Price": 0.95,
+        "Quantity": 1,
+        "Description": "SIRAB Still water"
+      }
+    ],
+    "TotalAmount": 13.95,
+    "UserId": "aaaa"
+  },
+  {
+    "Date": "2024-07-13T23:50:47.8644406+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13,
+        "Quantity": 1,
+        "Description": "NOVA GAUDA yellow cheese"
+      }
+    ],
+    "TotalAmount": 13,
+    "UserId": "bbbb"
+  },
+  {
+    "Date": "2024-07-14T01:41:58.0727652+04:00",
+    "Products": [
+      {
+        "Name": "Lemonade",
+        "Price": 2.05,
+        "Quantity": 11,
+        "Description": "NATAKHTARI Pear lemonade"
+      }
+    ],
+    "TotalAmount": 22.549999999999997,
+    "UserId": "bbbb"
+  },
+  {
+    "Date": "2024-07-14T01:49:19.6176156+04:00",
+    "Products": [
+      {
+        "Name": "Lemonade",
+        "Price": 2.05,
+        "Quantity": 4,
+        "Description": "NATAKHTARI Pear lemonade"
+      }
+    ],
+    "TotalAmount": 8.2,
+    "UserId": "bbbb"
+  },
+  {
+    "Date": "2024-07-14T02:04:03.5145273+04:00",
+    "Products": [
+      {
+        "Name": "Cheese",
+        "Price": 13.99,
+        "Quantity": 1,
+        "Description": "11"
+      },
+      {
+        "Name": "Cabbage",
+        "Price": 1.15,
+        "Quantity": 1,
+        "Description": "White cabbage"
+      }
+    ],
+    "TotalAmount": 15.14,
+    "UserId": "c"
+  }
+]
